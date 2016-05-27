@@ -1,0 +1,28 @@
+name: elliecd
+favicon: null
+layout_spectrum: 0.3371160151436925
+typography_spectrum: 0.33693562750704587
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.9284185792785138
+  lightness: 0.24857516237534583
+  saturation: 0.8945210219826549
+  rhythmicContrast: 0.19170999806374311
+purpose: []
